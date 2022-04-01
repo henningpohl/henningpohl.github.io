@@ -1,0 +1,12 @@
+[
+	{"type": "journal", "label": "Journal Article", "link": "View Article"},
+	{"type": "full", "label": "Full Paper", "link": "View Paper"},
+	{"type": "short", "label": "Short Paper", "link": "View Paper"},
+	{"type": "thesis", "label": "Thesis", "link": "View Thesis"},
+	{"type": "bookchapter", "label": "Book Chapter", "link": "View Chapter"},
+	{"type": "alt.chi", "label": "alt.chi Paper", "link": "View Paper"},
+	{"type": "poster", "label": "Poster", "link": "View Paper"},
+	{"type": "demo", "label": "Demo", "link": "View Paper"},
+	{"type": "dc", "label": "Doctoral Consortium", "link": "View Paper"},
+	{"type": "workshop", "label": "Workshop Paper", "link": "View Paper"}
+]

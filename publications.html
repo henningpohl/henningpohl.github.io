@@ -1,0 +1,113 @@
+---
+title: "Henning Pohl: Publications"
+layout: default
+---
+
+<section>
+<h2>Publications</h2>
+<p>Here you can find the author versions of my publications (if I hold the right to make them available here). In case no pdf is online, please send me an email and I'm most likely able to provide you with a version.</p>
+</section>
+
+{% assign pubs_by_year = site.data.publications | group_by:"year" | sort:"year" %}
+
+{% for year in pubs_by_year %}
+<section>
+	<h2>{{ year.name }}</h2>
+	<dl class="dl-horizontal">	
+	{% for pubType in site.data.papertypes %}
+		{% assign publications = year.items | where: "type", pubType.type %}
+		{% for publication in publications %}	
+			<dt>{{pubType.label}}</dt><dd>
+			<div class="papertitle">{{ publication.title }}</div>
+			<div class="paperauthors">{{ publication.authors }}</div>
+			<div class="papervenue">{{ publication.venue }} 
+			{% if publication.acceptance and publication.acceptance < 40.0 %}
+				(Acceptance Rate: {{publication.acceptance}}%)
+			{% endif %}
+			{% if publication.award %}
+				<br />
+				{% if publication.award == 'best paper' %}
+					<i class="fas fa-trophy"></i> Received {{publication.award}} award (top 1% of submissions).
+				{% elsif publication.award == 'honorable mention' %}
+					<i class="fas fa-1x fa-award" style="font-size: 2rem;"></i> Received {{publication.award}} award (top 5% of submissions).
+				{% else %}
+					Received {{publication.award}} award.
+				{% endif %}
+			{% endif %}
+			</div>
+			<div class="paperextra">
+				{% if publication.file %}
+				<a class="btn btn-primary" role="button"  href="/papers/{{publication.file}}">{{pubType.link}} <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+				{% else %}
+				<a class="btn btn-default" disabled="disabled" role="button">Paper not available</a>
+				{% endif %}
+				{% if publication.projectPage %}
+				<a class="btn btn-default" role="button"  href="{{publication.projectPage}}">Project Page</a>
+				{% endif %}
+				{% if publication.abstract %}
+				<a class="btn btn-default" role="button" data-toggle="collapse" href="#{{publication.id}}a" aria-expanded="false" aria-controls="{{publication.id}}a">Show Abstract</a>
+				{% endif %}
+				{% if publication.bibtex %}
+				<a class="btn btn-default" role="button" data-toggle="collapse" href="#{{publication.id}}b" aria-expanded="false" aria-controls="{{publication.id}}b">Show Bibtex</a>
+				{% endif %}
+				{% if publication.talkvideo %}
+				<a class="btn btn-info" role="button" data-toggle="collapse" href="#{{publication.id}}t" aria-expanded="false" aria-controls="{{publication.id}}t">Show Talk</a>
+				{% endif %}
+				{% if publication.video %}
+				<a class="btn btn-info" role="button" data-toggle="collapse" href="#{{publication.id}}v" aria-expanded="false" aria-controls="{{publication.id}}v">Show Video</a>
+				{% endif %}
+				{% if publication.doi %}
+				<a class="btn btn-success" role="button"  href="http://dx.doi.org/{{publication.doi}}"><i style="line-height:0.5em;vertical-align:-30%;" class="ai ai-doi ai-2x"></i></a>
+				{% endif %}
+			</div>
+			{% if publication.abstract %}
+			<div class="collapse" id="{{publication.id}}a">
+				<div class="well">
+					{% if publication.abstract.size > 0 %}
+						{% for par in publication.abstract %}
+							<p>{{par}}</p>
+						{% endfor %}
+					{% else %}
+						<p>{{publication.abstract}}</p>
+					{% endif %}
+				</div>
+			</div>
+			{% endif %}
+			{% if publication.bibtex %}
+			<div class="collapse" id="{{paper.id}}b">
+				<div class="well">
+					{{publication.bibtex}}
+				</div>
+			</div>
+			{% endif %}
+			{% if publication.talkvideo %}
+			<div class="collapse" id="{{publication.id}}t">
+				<div class="embed-responsive embed-responsive-16by9">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/{{publication.talkvideo}}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+			{% endif %}
+			{% if publication.video %}
+			<div class="collapse" id="{{publication.id}}v">
+				<div class="embed-responsive embed-responsive-16by9">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/{{publication.video}}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+			{% endif %}
+			</dd>
+		{% endfor %}
+	{% endfor %}
+	</dl>
+</section>
+{% endfor %}
+
+
+
+
+
+
+
+
+
+
+

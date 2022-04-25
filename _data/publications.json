@@ -34,6 +34,8 @@
 		"file": "Pohl2020VRST.pdf",
 		"doi": "10.1145/3385956.3418946",
 		"venue": "In Proceedings of the 26th ACM Symposium on Virtual Reality Software and Technology (VRST '20)",
+		"video": "teJdm4_QjUY",
+		"talkvideo": "Fgat4lVlMxg",
 		"acceptance": 26.5,
 		"abstract": "Technological advances are enabling a new class of augmented reality (AR) applications that use bodies as substrates for input and output. In contrast to sensing and augmenting objects, body-based AR applications track people around the user and layer information on them. However, prototyping such applications is complex, time-consuming, and cumbersome, due to a lack of easily accessible tooling and infrastructure. We present Body LayARs, a toolkit for fast development of body-based AR prototypes. Instead of directly programming for a device, Body LayARs provides an extensible graphical programming environment with a device-independent runtime abstraction. We focus on face-based experiences for headset AR, and show how Body LayARs makes a range of body-based AR applications fast and easy to prototype."
 	},

@@ -8,6 +8,7 @@
 		"file": "Bergstroem2022TOCHI.pdf",
 		"doi": "10.1145/3490493",
 		"venue": "In ACM Transactions on Computer-Human Interaction, 29(28)",
+		"talkvideo": "Q5kxNPBiBRo",
 		"abstract": "Sense of control is increasingly used as a measure of quality in human-computer interaction. Control has been investigated mainly at a high level, using subjective questionnaire data, but also at a low level, using objective data on participants’ sense of agency. However, it remains unclear how differences in higher level, experienced control reflect lower level sense of control. We study that link in two experiments. In the first one we measure the low-level sense of agency with button, touchpad, and on-skin input. The results show a higher sense of agency with on-skin input. In the second experiment, participants played a simple game controlled with the same three inputs. We find that on-skin input results in both increased sense and experience of control compared to touchpad input. However, the corresponding difference is not found between on-skin and button input, whereas the button performed better in the experiment task. These results suggest that other factors of user experience spill over to the experienced control at rates that overcome differences in the sense of control. We discuss the implications for using subjective measures about the sense of control in evaluating qualities of interaction."
 	},
 	{
@@ -45,6 +46,8 @@
 		"file": "Lilija2020CHI.pdf",
 		"doi": "10.1145/3313831.3376604",
 		"venue": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI '20",
+		"video": "KlKw6ryRT_o",
+		"talkvideo": "lp22J8Jfm5k",
 		"acceptance": 24.3,
 		"abstract": "Spatial recordings allow viewers to move within them and freely choose their viewpoint. However, such recordings make it easy to miss events and difficult to follow moving objects when skipping through the recording. To alleviate these problems we present the Who Put That There system that allows users to navigate through time by directly manipulating objects in the scene. By selecting an object, the user can navigate to moments where the object changed. Users can also view trajectories of objects that changed location and directly manipulate them to navigate. We evaluated the system with a set of sensemaking questions in a think-aloud study. Participants understood the system and found it useful for finding events of interest, while being present and engaged in the recording."
 	},

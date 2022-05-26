@@ -1,5 +1,16 @@
 [ 
 	{
+		"id": "Pohl2022",
+		"year": 2022,
+		"title": "Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research",
+		"authors": "Henning Pohl and Aske Mottelson",
+		"type": "journal",
+		"file": "Pohl2022Frontiers.pdf",
+		"doi": "10.3389/frvir.2022.719506",
+		"venue": "In Frontiers in Virtual Reality",
+		"abstract": "We created a hand texture resource (with different skin tone versions as well as non-human hands) for use in virtual reality studies. This makes it easier to run lab and remote studies where the hand representation is matched to the participants’ own skin tone. We validate that the virtual hands with our textures align with participants’ view of their own real hands and allow to create VR applications where participants have an increased sense of body ownership. These properties are critical for a range of VR studies, such as of immersion."
+	},
+	{
 		"id": "Bergstroem2022",
 		"year": 2022,
 		"title": "Sense of Agency and User Experience: Is There a Link?",

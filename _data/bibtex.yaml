@@ -1,0 +1,407 @@
+Pohl2022: |
+  @article{Pohl2022,
+    title = {Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research},
+    author = {Pohl, Henning and Mottelson, Aske},
+    journal = {Frontiers in Virtual Reality},
+    volume = {3},
+    year = {2022},
+    url = {https://www.frontiersin.org/article/10.3389/frvir.2022.719506},
+    doi = {10.3389/frvir.2022.719506},
+    issn = {2673-4192}
+  }
+Bergstroem2022: |
+  @article{Bergstroem2022,
+    title = {Sense of Agency and User Experience: Is There a Link?},
+    author = {Bergström, Joanna and Knibbe, Jarrod and Pohl, Henning and Hornbæk, Kasper},
+    year = {2022},
+    issue_date = {August 2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {29},
+    number = {4},
+    issn = {1073-0516},
+    url = {https://doi.org/10.1145/3490493},
+    doi = {10.1145/3490493},
+    journal = {ACM Trans. Comput.-Hum. Interact.},
+    month = {mar},
+    articleno = {28},
+    numpages = {22}
+  }
+Pohl2021: |
+  @inproceedings{Pohl2021,
+    title = {Poros: Configurable Proxies for Distant Interactions in VR},
+    author = {Pohl, Henning and Lilija, Klemen and McIntosh, Jess and Hornbæk, Kasper},
+    year = {2021},
+    isbn = {9781450380966},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3411764.3445685},
+    doi = {10.1145/3411764.3445685},
+    booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+    articleno = {532},
+    numpages = {12},
+    location = {Yokohama, Japan},
+    series = {CHI '21}
+  }
+Pohl2020: |
+  @inproceedings{Pohl2020,
+    title = {Body LayARs: A Toolkit for Body-Based Augmented Reality},
+    author = {Pohl, Henning and Dalsgaard, Tor-Salve and Krasniqi, Vesa and Hornbæk, Kasper},
+    year = {2020},
+    isbn = {9781450376198},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3385956.3418946},
+    doi = {10.1145/3385956.3418946},
+    booktitle = {26th ACM Symposium on Virtual Reality Software and Technology},
+    articleno = {14},
+    numpages = {11},
+    keywords = {toolkit, body-based augmentation, Augmented reality},
+    location = {Virtual Event, Canada},
+    series = {VRST '20}
+  }
+Lilija2020: |
+  @inproceedings{Lilija2020,
+    title = {Who Put That There? Temporal Navigation of Spatial Recordings by Direct Manipulation},
+    author = {Lilija, Klemen and Pohl, Henning and Hornbæk, Kasper},
+    year = {2020},
+    isbn = {9781450367080},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3313831.3376604},
+    pages = {1–11},
+    numpages = {11},
+    location = {Honolulu, HI, USA},
+    series = {CHI '20}
+  }
+Larsen2019: |
+  @inproceedings{Larsen2019,
+    title = {The Influence of Hand Size on Touch Accuracy},
+    author = {Larsen, Joachim Normann and Jacobsen, Tórur Hæjgaard and Boring, Sebastian and Bergström, Joanna and Pohl, Henning},
+    year = {2019},
+    isbn = {9781450368254},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3338286.3340115},
+    doi = {10.1145/3338286.3340115},
+    articleno = {4},
+    numpages = {11},
+    keywords = {Touch input, pointing, mobile interaction},
+    location = {Taipei, Taiwan},
+    series = {MobileHCI '19}
+  }
+Muresan2019: |
+  @inproceedings{Muresan2019,
+    title = {Chats with Bots: Balancing Imitation and Engagement},
+    author = {Muresan, Andreea and Pohl, Henning},
+    booktitle = {CHI '19 Extended Abstracts on Human Factors in Computing Systems on - CHI EA '19},
+    series = {CHI EA '19},
+    doi = {10.1145/3290607.3313084},
+    publisher = {ACM Press},
+    address = {New York, New York, USA},
+    year = {2019},
+    address = {New York, New York, USA}
+  }
+Pohl2019a: |
+  @inproceedings{Pohl2019a,
+    title = {How we Guide, Write, and Cite at CHI},
+    author = {Pohl, Henning and Mottelson, Aske},
+    booktitle = {CHI '19 Extended Abstracts on Human Factors in Computing Systems on - CHI EA '19},
+    series = {CHI EA '19},
+    doi = {10.1145/3290607.3310429},
+    publisher = {ACM Press},
+    address = {New York, New York, USA},
+    year = {2019},
+    address = {New York, New York, USA}
+  }
+Lilija2019: |
+  @inproceedings{Lilija2019,
+    title = {Augmented Reality Views for Occluded Interaction},
+    author = {Lilija, Klemen and Pohl, Henning and Boring, Sebastian and Hornbæk, Kasper},
+    booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI '19},
+    publisher = {ACM Press},
+    address = {New York, New York, USA},
+    year = {2019},
+    doi = {10.1145/3290605.3300676}
+  }
+Pohl2019: |
+  @inproceedings{Pohl2019,
+    title = {Charting Subtle Interaction in the HCI Literature},
+    author = {Pohl, Henning and Muresan, Andreea and Hornbæk, Kasper},
+    year = {2019},
+    isbn = {9781450359702},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3290605.3300648},
+    doi = {10.1145/3290605.3300648},
+    pages = {1–15},
+    numpages = {15},
+    location = {Glasgow, Scotland, UK},
+    series = {CHI '19}
+  }
+Pohl2018a: |
+  @inproceedings{Pohl2018a,
+    title = {ElectricItch: Skin Irritation as a Feedback Modality},
+    author = {Pohl, Henning and Hornbæk, Kasper},
+    booktitle = {Proceedings of the 31st annual ACM symposium on User interface software and technology - UIST '18},
+    doi = {10.1145/3242587.3242647},
+    publisher = {ACM Press},
+    address = {New York, New York, USA},
+    year = {2018}
+  }
+Pohl2018: |
+  @inproceedings{Pohl2018,
+    title = {Wanding Through Space: Interactive Calibration for Electric Muscle Stimulation},
+    author = {Pohl, Henning and Hornbæk, Kasper and Knibbe, Jarrod},
+    booktitle = {Proceedings of the 9th Augmented Human International Conference - AH '18},
+    doi = {10.1145/3174910.317494},
+    publisher = {ACM Press},
+    year = {2018}
+  }
+Pohl2017t: |
+  @phdthesis{Pohl2017t,
+    title = {Casual Interaction: Devices and Techniques for Low-Engagement Interaction},
+    author = {Pohl, Henning},
+    year = {2017},
+    school = {Leibniz Universität Hannover},
+    type = {PhD Thesis}
+  }
+Pohl2017b: |
+  @inproceedings{Pohl2017b,
+    title = {Inhibiting Freedom of Movement with Compression Feedback},
+    author = {Pohl, Henning and Hoheisel, Franziska and Rohs, Michael},
+    year = {2017},
+    booktitle = {Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA '17},
+    doi = {10.1145/3027063.3053081},
+    publisher = {ACM Press},
+    address = {New York, New York, USA}
+  }
+Pohl2017a: |
+  @article{Pohl2017a,
+    title = {Beyond Just Text: Semantic Emoji Similarity Modeling to Support Expressive Communication 👫 📲 😃},
+    author = {Pohl, Henning and Domin, Christian and Rohs, Michael},
+    journal = {ACM Transactions on Computer-Human Interaction},
+    publisher = {ACM Press},
+    address = {New York, NY, USA}
+    doi = {10.1145/3039685},
+    number = {1},
+    volume = {24},
+    articleno = {6},
+    issn = {1073-0516},
+    year = {2017}
+  }
+Pohl2017: |
+  @inproceedings{Pohl2017,
+    title = {Squeezeback: Pneumatic Compression for Notifications},
+    author = {Pohl, Henning and Brandes, Peter and Quang, Hung Ngo and Rohs, Michael},
+    year = {2017}
+    booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI '17},
+    doi = {10.1145/3025453.3025526},
+    file = {Pohl2017CHI.pdf},
+    publisher = {ACM Press},
+    address = {New York, New York, USA}
+  }
+Pohl2016d: |
+  @inproceedings{Pohl2016d,
+    title = {Multi-Level Interaction with an LED-Matrix Edge Display},
+    author = {Pohl, Henning and Krefeld, Bastian and Rohs, Michael},
+    booktitle = {Proceedings of the 18th international conference on Human-computer interaction with mobile devices and services adjunct - MobileHCI '16 Adjunct},
+    year = {2016},
+    doi = {10.1145/2957265.2961855}
+  }
+Pohl2016c: |
+  @inproceedings{Pohl2016c,
+    title = {EmojiZoom: Emoji Entry via Large Overview Maps 😄 🔍},
+    author = {Pohl, Henning and Stanke, Dennis and Rohs, Michael},
+    booktitle = {Proceedings of the 18th international conference on Human-computer interaction with mobile devices and services - MobileHCI '16},
+    year = {2016},
+    doi = {10.1145/2935334.2935382}
+  }
+Pohl2016b: |
+  @inproceedings{Pohl2016b,
+    title = {ScatterWatch: Subtle Notifications via Indirect Illumination Scattered in the Skin},
+    author = {Pohl, Henning and Medrek, Justyna and Rohs, Michael},
+    booktitle = {Proceedings of the 18th international conference on Human-computer interaction with mobile devices and services - MobileHCI '16},
+    year = {2016},
+    doi = {10.1145/2935334.2935351}
+  }
+Pohl2016a: |
+  @incollection{Pohl2016a,
+    title = {Casual Interaction: Moving Between Peripheral and High Engagement Interactions},
+    author = {Pohl, Henning},
+    booktitle = {Peripheral Interaction: Challenges and Opportunities for HCI in the Periphery of Attention},
+    editor = {Bakker, Saskia and Hausen, Doris and Selker, Ted},
+    pages = {117--135},
+    publisher = {Springer},
+    year = {2016},
+    isbn={978-3-319-29521-3},
+    doi={10.1007/978-3-319-29523-7_6}
+  }
+Domin2016: |
+  @inproceedings{Domin2016,
+   title = {Improving Plagiarism Detection in Coding Assignments by Dynamic Removal of Common Ground}, 
+   author = {Domin, Christian and Pohl, Henning and Krause, Markus},
+    booktitle = {Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA '16},
+    doi = {10.1145/2851581.2892512},
+    pages = {1173--1179},
+    year = {2016}
+  }
+Pohl2015d: |
+  @inproceedings{Pohl2015d,
+    title = {CapCouch: Home Control With a Posture-Sensing Couch}
+    author = {Pohl, Henning and Hettig, Markus and Karras, Oliver and Ötztürk, Hatice and Rohs, Michael},
+    booktitle = {Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication - UbiComp '15 Adjunct},
+    doi = {10.1145/2800835.2800932}
+  }
+Pohl2015c: |
+  @inproceedings{Pohl2015c,
+    title = {One-Button Recognizer: Exploiting Button Pressing Behavior for User Differentiation},
+    author = {Pohl, Henning and Krause, Markus and Rohs, Michael},
+    booktitle = {Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing - UbiComp '15},
+    doi = {10.1145/2750858.2804270},
+    file = {Pohl2015UbiComp.pdf},
+    year = {2015}
+  }
+Pohl2015a: |
+  @inproceedings{Pohl2015a,
+    title = {Casual Interaction: Scaling Interaction for Multiple Levels of Engagement},
+    author = {Pohl, Henning},
+    year = {2015},
+    booktitle = {Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA '15},
+    doi = {10.1145/2702613.2702625},
+    pages = {223--226},
+    publisher = {ACM Press},
+    address = {New York, New York, USA}
+  }
+Pohl2015b: |
+  @inproceedings{Pohl2015b,
+    title = {Wrist Compression Feedback by Pneumatic Actuation},
+    author = {Pohl, Henning and Becke, Dennis and Wagner, Eugen and Schrapel, Maximilian and Rohs, Michael},
+    booktitle = {CHI '15 Extended Abstracts on Human Factors in Computing Systems on - CHI EA '15},
+    doi = {10.1145/2702613.2725427},
+    year = {2015}
+  }
+Krause2015: |
+  @inproceedings{Krause2015,
+    title = {A Playful Game Changer: Fostering Student Retention in Online Education with Social Gamification},
+    author = {Krause, Markus and Mogalle, Marc and Pohl, Henning and Williams, Joseph Jay},
+    booktitle = {Proceedings of the second ACM conference on Learning @ scale - L@S '15},
+    year = {2015},
+    doi = {10.1145/2724660.2724665}
+  }
+Pohl2014: |
+  @inproceedings{Pohl2014,
+    title = {Around-Device Devices: My Coffee Mug is a Volume Dial},
+    author = {Pohl, Henning and Rohs, Michael},
+    booktitle = {Proceedings of the 16th international conference on Human-computer interaction with mobile devices and services companion - MobileHCI '14},
+    doi = {10.1145/2628363.2628401},
+    year = {2014}
+  }
+Pohl2014b: |
+Pohl2014b: |
+  @inproceedings{Pohl2014b,
+    title = {Brave New Interactions: Performance-Enhancing Drugs for Human-Computer Interaction},
+    author = {Pohl, Henning},
+    booktitle = {CHI '14 Extended Abstracts on Human Factors in Computing Systems on - CHI EA '14},
+    series = {CHI EA '14},
+    doi = {10.1145/2559206.2578882},
+    publisher = {ACM Press},
+    year = {2014},
+    address = {New York, New York, USA}
+  }
+Pohl2014a: |
+  @inproceedings{Pohl2014a,
+    title = {Casual Interaction: Scaling Fidelity for Low-Engagement Interactions},
+    author = {Pohl, Henning and Rohs, Michael and Murray-Smith, Roderick},
+    booktitle = {Workshop on Peripheral Interaction: Shaping the Research and Design Space at CHI 2014},
+    year = {2014}
+  }
+Baudisch2014: |
+  @inproceedings{Baudisch2014,
+    title = {Imaginary Reality Basketball: A Ball Game Without a Ball},
+    author = {Baudisch, Patrick and Pohl, Henning and Reinicke, Stefanie and Wittmers, Emilia and Lühne, Patrick and Knaust, Marius and Köhler, Sven and Schmidt, Patrick and Holz, Christian},
+    booktitle = {CHI '14 Extended Abstracts on Human Factors in Computing Systems on - CHI EA '14},
+    series = {CHI EA '14},
+    doi = {10.1145/2559206.2574813},
+    publisher = {ACM Press},
+    year = {2014},
+    address = {New York, New York, USA}
+  }
+Weir2014: |
+  @inproceedings{Weir2014,
+    title = {Uncertain Text Entry on Mobile Devices},
+    author = {Weir, Daryl and Pohl, Henning and Rogers, Simon and Vertanen, Keith and Kristensson, Per Ola},
+    booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI '14},
+    doi = {10.1145/2556288.2557412},
+    publisher = {ACM Press},
+    year = {2014},
+    address = {New York, New York, USA}
+  }
+Baudisch2013: |
+  @inproceedings{Baudisch2013,
+    title = {Imaginary Reality Gaming: Ball Games Without a Ball},
+    author = {Baudisch, Patrick and Pohl, Henning and Reinicke, Stefanie and Wittmers, Emilia and Lühne, Patrick and Knaust, Marius and Köhler, Sven and Schmidt, Patrick and Holz, Christian},
+    booktitle = {Proceedings of the 26th annual ACM Symposium on User Interface Software and Technology - UIST '13},
+    doi = {10.1145/2501988.2502012},
+    isbn = {9781450322683},
+    pages = {405--410},
+    publisher = {ACM Press},
+    year = {2013},
+    address = {New York, New York, USA}
+  }
+Pohl2013: |
+  @inproceedings{Pohl2013,
+    title = {Focused and Casual Interactions: Allowing Users to Vary Their Level of Engagement},
+    author = {Pohl, Henning and Murray-Smith, Roderick},
+    booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI '13},
+    doi = {10.1145/2470654.2481307},
+    isbn = {9781450318990},
+    pages = {2223--2232},
+    publisher = {ACM Press},
+    url = {http://dl.acm.org/citation.cfm?doid=2470654.2481307},
+    year = {2013},
+    address = {New York, New York, USA}
+  }
+Pohl2012: |
+  @inproceedings{Pohl2012,
+    title = {Quantum Games: Ball Games Without a Ball},
+    author = {Pohl, Henning and Holz, Christian and Reinicke, Stefanie and Wittmers, Emilia and Killing, Marvin and Kaefer, Konstantin and Plauth, Max and Mohr, Tobias and Platz, Stephanie and Tessenow, Philipp and Baudisch, Patrick},
+    booktitle = {Workshop on Kinect in Pervasive Computing at Pervasive 2012},
+    year = {2012}
+  }
+Roudaut2011: |
+  @inproceedings{Roudaut2011,
+    title = {Touch Input on Curved Surfaces},
+    author = {Roudaut, Anne and Pohl, Henning and Baudisch, Patrick},
+    booktitle = {Proceedings of the 2011 annual conference on Human factors in computing systems - CHI '11},
+    doi = {10.1145/1978942.1979094},
+    isbn = {9781450302289},
+    pages = {1011--1020},
+    publisher = {ACM Press},
+    address = {New York, New York, USA},
+    year = {2011}
+  }
+Pohl2010: |
+  @inproceedings{Pohl2010,
+    title = {Dance Pattern Recognition using Dynamic Time Warping},
+    author = {Pohl, Henning and Hadjakos, Aristotelis},
+    booktitle = {Proceedings of the 7th Sound and Music Computing Conference (SMC 2010)},
+    year = {2010},
+    pages = {183--190}
+  }
+Pohl2010a: |
+  @phdthesis{Pohl2010a,
+    title = {Motion Pattern Recognition for Interactive Dance},
+    author = {Pohl, Henning},
+    school = {Technische Universität Darmstadt},
+    type = {Master Thesis},
+    year = {2010}
+  }
+Pohl2007: |
+  @phdthesis{Pohl2007,
+    title = {Digital Television Mashups: Internet Usage Paradigms for TV Viewers},
+    author = {Pohl, Henning},
+    school = {Universität Bremen},
+    type = {Bachelor Thesis},
+    year = {2007}
+  }

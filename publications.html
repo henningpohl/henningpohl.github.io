@@ -47,7 +47,7 @@ layout: default
 				{% if publication.abstract %}
 				<a class="btn btn-default" role="button" data-toggle="collapse" href="#{{publication.id}}a" aria-expanded="false" aria-controls="{{publication.id}}a">Show Abstract</a>
 				{% endif %}
-				{% if publication.bibtex %}
+				{% if site.data.bibtex[publication.id] %}
 				<a class="btn btn-default" role="button" data-toggle="collapse" href="#{{publication.id}}b" aria-expanded="false" aria-controls="{{publication.id}}b">Show Bibtex</a>
 				{% endif %}
 				{% if publication.github %}
@@ -76,11 +76,9 @@ layout: default
 				</div>
 			</div>
 			{% endif %}
-			{% if publication.bibtex %}
-			<div class="collapse" id="{{paper.id}}b">
-				<div class="well">
-					{{publication.bibtex}}
-				</div>
+			{% if site.data.bibtex[publication.id] %}
+			<div class="collapse" id="{{publication.id}}b">
+				<pre>{{site.data.bibtex[publication.id]}}</pre>
 			</div>
 			{% endif %}
 			{% if publication.talkvideo %}

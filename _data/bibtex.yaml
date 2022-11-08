@@ -1,3 +1,46 @@
+Strohmeier2022: |
+  @incollection{Strohmeier2022,
+    title = {Body-Based User Interfaces},
+    author = {Strohmeier, Paul and Pohl, Henning and Mcintosh, Jess and Mottelson, Aske and Knibbe, Jarrod and Jansen, Yvonne and Bergström, Joanna and Hornbæk, Kasper},
+    booktitle = {The Routledge Handbook of Bodily Awareness},
+    editor = {Alsmith, Adrian J.T. and Longo, Matthew R.},
+    chapter = {31},
+    publisher = {Routhledge},
+    year = {2022},
+    isbn={9780367337315}
+  }
+Pedersen2022: |
+  @inproceedings{Pedersen2022,
+    author = {Pedersen, Thomas R. and Ivanova, Iveta and Hjørringgaard, Michael and Fredsgård, Julie and Cornelius, Freya K. B. and Pust, Oliver Esman and Pohl, Henning},
+    title = {Eggventures: Strengthening Connectedness through Coop-Play},
+    year = {2022},
+    isbn = {9781450392112},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3505270.3558326},
+    doi = {10.1145/3505270.3558326},
+    booktitle = {Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play},
+    pages = {70–74},
+    numpages = {5},
+    location = {Bremen, Germany},
+    series = {CHI PLAY '22}
+  }
+Madsen2022: |
+  @inproceedings{Madsen2022,
+    author = {Madsen, Peter and Pohl, Henning and Merritt, Timothy},
+    title = {Fear Inducing Play in an AR Escape Room with Human and Robotic NPCs},
+    year = {2022},
+    isbn = {9781450392112},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3505270.3558317},
+    doi = {10.1145/3505270.3558317},
+    booktitle = {Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play},
+    pages = {38–43},
+    numpages = {6},
+    location = {Bremen, Germany},
+    series = {CHI PLAY '22}
+  }
 Pohl2022: |
   @article{Pohl2022,
     title = {Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research},

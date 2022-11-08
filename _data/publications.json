@@ -1,5 +1,40 @@
 [ 
 	{
+		"id": "Strohmeier2022",
+		"year": 2022,
+		"title": "Body-Based User Interfaces",
+		"authors": "Paul Strohmeier, Henning Pohl, Jess McIntosh, Aske Mottelson, Jarrod Knibbe, Yvonne Jansen, Joanna Bergström, Kasper Hornbæk",
+		"type": "bookchapter",
+		"venue": "The Routledge Handbook of Bodily Awareness",
+		"abstract": "The relation between the body and computer interfaces has undergone several shifts since the advent of computing. In early models of interaction, the body was treated as a periphery to the mind, much like a keyboard is peripheral to a computer. The goal of the interface designers was to optimize the information flow between the brain and the computer, using these imperfect peripheral devices. Toward the end of the previous century the social body, as well as the material body and its physical manipulation skills started receiving increased consideration from interaction designers. The goal of the interface designer shifted, requiring the designer to understand the role of the body in a given context, and adapting the interface to respect the social context and to make use of the tacit knowledge that the body has of how the physical world functions. Currently, we are witnessing another shift in the role of the body. It is no longer merely something that requires consideration for interface design. Instead, advances in technology and our understanding of interaction allows the body to become part of the interface. We call these body-based user interfaces. We identify four ways in which the body becomes part of the interface: (1) The interaction might occur on or in the human body, for example using implanted tactile stimulation or touch interfaces on the body. Here the material of the body becomes part of the interface. (2) The interaction changes the morphology of the body and corresponding control structures, for example by providing users with additional skills, such as drawing or playing instruments or additional limbs that help complete complex tasks. Here the shape of the body, or the corresponding ability to act, is affected by the interface. (3) The interaction engages with or modifies how we perceive the world, for example by manipulating the sense of direction in VR or allowing users to experience non-existent stimuli, such as mid-air friction. Here, the idiosyncrasies of multi-modal perception and perceptive acts become part of the user interface. Finally, (4) the interaction might engage with the experience of having a body, for example by manipulating the sense of body ownership, location, or agency. Here the introspective access to one’s own body is used in the design of the interface. In this chapter, we present a brief history of the body’s role in human–computer interaction, leading up to a definition of body-based user interfaces. We follow this by presenting examples of interfaces that reflect the different ways in which interfaces can be body-based. We conclude by presenting outlooks on benefits, drawbacks, and possible futures of body-based user interfaces."
+	},
+	{
+		"id": "Pedersen2022",
+		"year": 2022,
+		"title": "Eggventures: Strengthening Connectedness through Coop-Play",
+		"authors": "Thomas R. Pedersen, Iveta Ivanova, Michael Hjørringgaard, Julie Fredsgård, Freya K. B. Cornelius, Oliver Esman Pust, and Henning Pohl",
+		"type": "poster",
+		"file": "Pedersen2022ChiPlayEA.pdf",
+		"doi": "10.1145/3505270.3558326",
+		"venue": "In Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play - CHI PLAY '22 EA",
+		"video": "g81iSCzTOjI",
+		"acceptance": 52,
+		"abstract": "Cooperative play has been shown to increase connectedness and enjoyment. We developed Eggventures, a platforming game for two players, to investigate how movement mechanics influence connectedness. In one version of the game, the two players are tied together with a rubber band and have to make use of it to catapult each other through the levels. In a between-subjects study, we compare this to a version with only jumping. We find that both versions offer an enjoyable experience, but that the rubber band version increased player communication. A likely contributor to this is the increased level of challenge and frustration that forced players to engage more with each other to succeed."
+	},
+	{
+		"id": "Madsen2022",
+		"year": 2022,
+		"title": "Fear Inducing Play in an AR Escape Room with Human and Robotic NPCs",
+		"authors": "Peter Madsen, Henning Pohl, and Timothy Merritt",
+		"type": "poster",
+		"file": "Madsen2022ChiPlayEA.pdf",
+		"doi": "10.1145/3505270.3558317",
+		"venue": "In Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play - CHI PLAY '22 EA",
+		"video": "6nUo0fCF5a0",
+		"acceptance": 52,
+		"abstract": "While the horror genre has been a staple in computer games on consoles and personal computers, there are surprisingly few examples of Augmented Reality (AR) horror games. Considering that AR experiences are valued for taking advantage of the physical environment to situate the experience and increase the sense of realism and immersion, there are surprisingly few examples of research that have examined factors that contribute to player experiences in horror games. We developed an AR horror experience in which players need to enter an escape room, solve puzzles and retrieve a teddy bear under the threat of being captured by an enemy NPC. We conducted a study in which players completed the task twice, once facing the enemy NPC in the form of a human-like janitor and another with a robot. Most players rated the human-like enemy as more intimidating than the robot. Players provided various explanations for game elements that contributed to their sense of fear and intimidation including the sound, relatability of the enemy, and scary atmosphere."
+	},
+	{
 		"id": "Pohl2022",
 		"year": 2022,
 		"title": "Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research",

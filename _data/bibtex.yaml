@@ -1,3 +1,19 @@
+Berkel2024OSM: |
+  @article{Berkel2024OSM,
+    title = {Collaborating with Automation and Bots on OpenStreetMap},
+    author = {van Berkel, Niels and Pohl, Henning},
+    year = {2024},
+    journal = {ACM Trans. Comput.-Hum. Interact.},
+  }
+Pohl2024Calculator: |
+  @inproceedings{Pohl2024Calculator,
+    title = {Integrated Calculators: Moving Calculation into the World},
+    author = {Pohl, Henning and Hornbæk, Kasper},
+    year = {2024},
+    doi = {{10.1145/3643834.3661523},
+    location = {IT University of Copenhagen, Denmark},
+    series = {DIS '24}
+  }
 Bhatia2024Comics: |
   @inproceedings{Bhatia2024Comics,
     title = {Using the Visual Language of Comics to Alter Sensations in Augmented Reality},

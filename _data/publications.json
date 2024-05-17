@@ -1,5 +1,27 @@
 [
 	{
+		"id": "Berkel2024OSM",
+		"year": 2024,
+		"title": "Collaborating with Automation and Bots on OpenStreetMap",
+		"authors": "Niels van Berkel, Henning Pohl",
+		"type": "journal",
+		"file": "vanBerkel2024TOCHI.pdf",
+		"doi": "TODO",
+		"venue": "In ACM Transactions on Computer-Human Interaction, (to appear)",
+		"abstract": "OpenStreetMap (OSM) is a large online community where users collaborate to map the world. In addition to manual edits, the OSM mapping database is regularly modified by bots and automated edits. In this paper, we seek to better understand how people and bots interact and conflict with each other. We start by analysing over 15 years of mailing list discussions related to bots and automated edits. From this data, we uncover five themes, including how automation results in power differentials between users and how community ideals of consensus clash with the realities of bot use. Subsequently, we surveyed OSM contributors on their experiences with bots and automated edits. We present findings about the current escalation and review mechanisms, as well as the lack of appropriate tools for evaluating and discussing bots. We discuss how OSM and similar communities could use these findings to better support collaboration between humans and bots."
+	},
+	{
+		"id": "Pohl2024Calculator",
+		"year": 2024,
+		"title": "Integrated Calculators: Moving Calculation into the World",
+		"authors": "Henning Pohl, Kasper Hornbæk",
+		"type": "full",
+		"file": "Pohl2024DIS.pdf",
+		"doi": "10.1145/3643834.3661523",
+		"venue": "In Proceedings of the 2023 ACM Designing Interactive Systems Conference - DIS '24",
+		"abstract": "Computing devices commonly act as tools, extending our abilities and shaping how we interact with the world. We investigate one such tool, the calculator, which helps with arithmetic, but also commonly offers specialized functions for conversions, formulas, or graphing. Through an analysis of calculator apps and use cases, we describe limitations of current calculators. Crucially, calculator apps remain detached from tasks, motivating us to explore how to more closely integrate calculation with the world through augmented reality (AR). AR calculators can directly use measurements and numbers from the world in calculations as well as display results of calculations in the world. We provide a conceptual account of calculation in AR, as well as video prototypes that concretize the concept across different scenarios. These examples demonstrate how moving tools like the calculator to AR offers tighter task integration and reduces the work required in translating between the world and computational tools."
+	},
+	{
 		"id": "Bhatia2024Comics",
 		"year": 2024,
 		"title": "Using the Visual Language of Comics to Alter Sensations in Augmented Reality",

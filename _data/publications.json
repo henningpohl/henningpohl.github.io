@@ -19,7 +19,7 @@
 		"file": "Pohl2024DIS.pdf",
 		"video": "jVHN5f4ma4Q",
 		"doi": "10.1145/3643834.3661523",
-		"venue": "In Proceedings of the 2023 ACM Designing Interactive Systems Conference - DIS '24",
+		"venue": "In Proceedings of the 2024 ACM Designing Interactive Systems Conference - DIS '24",
 		"abstract": "Computing devices commonly act as tools, extending our abilities and shaping how we interact with the world. We investigate one such tool, the calculator, which helps with arithmetic, but also commonly offers specialized functions for conversions, formulas, or graphing. Through an analysis of calculator apps and use cases, we describe limitations of current calculators. Crucially, calculator apps remain detached from tasks, motivating us to explore how to more closely integrate calculation with the world through augmented reality (AR). AR calculators can directly use measurements and numbers from the world in calculations as well as display results of calculations in the world. We provide a conceptual account of calculation in AR, as well as video prototypes that concretize the concept across different scenarios. These examples demonstrate how moving tools like the calculator to AR offers tighter task integration and reduces the work required in translating between the world and computational tools."
 	},
 	{

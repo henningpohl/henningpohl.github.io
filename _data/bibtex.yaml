@@ -3,6 +3,7 @@ Berkel2024OSM: |
     title = {Collaborating with Automation and Bots on OpenStreetMap},
     author = {van Berkel, Niels and Pohl, Henning},
     year = {2024},
+    doi = {10.1145/3665326},
     journal = {ACM Trans. Comput.-Hum. Interact.},
   }
 Pohl2024Calculator: |
@@ -11,7 +12,7 @@ Pohl2024Calculator: |
     author = {Pohl, Henning and Hornbæk, Kasper},
     year = {2024},
     booktitle = {Proceedings of the 2024 ACM Designing Interactive Systems Conference},
-    doi = {{10.1145/3643834.3661523},
+    doi = {10.1145/3643834.3661523},
     location = {IT University of Copenhagen, Denmark},
     series = {DIS '24}
   }

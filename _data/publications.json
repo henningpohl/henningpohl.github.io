@@ -246,7 +246,7 @@
 		"authors": "Henning Pohl and Jarrod Knibbe",
 		"type": "short",
 		"file": "Pohl2018AH.pdf",
-		"doi": "10.1145/3174910.317494",
+		"doi": "10.1145/3174910.3174948",
 		"venue": "In Proceedings of the 9th Augmented Human International Conference - AH '18",
 		"abstract": "Electric Muscle Stimulation (EMS) has emerged as an interaction paradigm for HCI. It has been used to confer object affordance, provide walking directions, and assist with sketching. However, the electrical signals used for EMS are multi-dimensional and require expert calibration before use. To date, this calibration has occurred as a collaboration between the experimenter, or interaction designer, and the user/participant. However, this is time-consuming, results in sampling only a limited space of possible signal configurations, and removes control from the participant. We present a calibration and signal exploration technique that both enables the user to control their own stimulation and thus comfort, and supports exploration of the continuous space of stimulation signals."
 	},

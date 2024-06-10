@@ -1,3 +1,13 @@
+Wester2024Advice: |
+  @article{Wester2024Advice,
+    title = {Exploring People’s Perceptions of LLM-generated Advice},
+    author = {Wester, Joel and de Jong, Sander and Pohl, Henning and van Berkel, Niels},
+    journal = {Computers in Human Behavior: Artificial Humans},
+    pages = {100072},
+    year = {2024},
+    issn = {2949-8821},
+    doi = {https://doi.org/10.1016/j.chbah.2024.100072}
+  }
 Berkel2024OSM: |
   @article{Berkel2024OSM,
     title = {Collaborating with Automation and Bots on OpenStreetMap},
@@ -15,6 +25,14 @@ Pohl2024Calculator: |
     doi = {10.1145/3643834.3661523},
     location = {IT University of Copenhagen, Denmark},
     series = {DIS '24}
+  }
+Harde2024GenTale: |
+  @inproceedings{Harde2024GenTale,
+   title = {The Generative Fairy Tale of Scary Little Red Riding Hood},
+   author = {Lasse Harde and Lasse Jensen and Johan Krogh and Adrian Plesner and Oliver Sørensen and Henning Pohl},
+   booktitle = {IMX 2024},
+   doi = {10.1145/3639701.3656303},
+   year = {2024}
   }
 Bhatia2024Comics: |
   @inproceedings{Bhatia2024Comics,

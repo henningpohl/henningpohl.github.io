@@ -1,10 +1,20 @@
+Pohl2024BodyViz: |
+  @inproceedings{Pohl2024BodyViz,
+    title = {Body-Based Augmented Reality Feedback During Conversations},
+    author = {Pohl, Henning},
+    year = {2024},
+    booktitle = {MobileHCI '24}
+  }
 Wester2024Advice: |
   @article{Wester2024Advice,
     title = {Exploring People’s Perceptions of LLM-generated Advice},
     author = {Wester, Joel and de Jong, Sander and Pohl, Henning and van Berkel, Niels},
     journal = {Computers in Human Behavior: Artificial Humans},
-    pages = {100072},
+    articleno = {100072},
+    numpages = {12},
     year = {2024},
+    volume = {2},
+    number = {2},
     issn = {2949-8821},
     doi = {https://doi.org/10.1016/j.chbah.2024.100072}
   }
@@ -30,7 +40,14 @@ Harde2024GenTale: |
   @inproceedings{Harde2024GenTale,
    title = {The Generative Fairy Tale of Scary Little Red Riding Hood},
    author = {Lasse Harde and Lasse Jensen and Johan Krogh and Adrian Plesner and Oliver Sørensen and Henning Pohl},
-   booktitle = {IMX 2024},
+   isbn = {9798400705038},
+   publisher = {Association for Computing Machinery},
+   address = {New York, NY, USA},
+   booktitle = {Proceedings of the 2024 ACM International Conference on Interactive Media Experiences},
+   pages = {129–144},
+   numpages = {16},
+   location = {Stockholm, Sweden},
+   series = {IMX '24},
    doi = {10.1145/3639701.3656303},
    year = {2024}
   }

@@ -1,9 +1,18 @@
 Pohl2024BodyViz: |
-  @inproceedings{Pohl2024BodyViz,
-    title = {Body-Based Augmented Reality Feedback During Conversations},
+  @article{Pohl2024BodyViz,
     author = {Pohl, Henning},
+    title = {Body-Based Augmented Reality Feedback During Conversations},
     year = {2024},
-    booktitle = {MobileHCI '24}
+    issue_date = {September 2024},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {8},
+    number = {MHCI},
+    doi = {10.1145/3676491},
+    journal = {Proc. ACM Hum.-Comput. Interact.},
+    month = {sep},
+    articleno = {246},
+    numpages = {22}
   }
 Wester2024Advice: |
   @article{Wester2024Advice,

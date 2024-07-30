@@ -5,7 +5,10 @@
 		"title": "Body-Based Augmented Reality Feedback During Conversations",
 		"authors": "Henning Pohl",
 		"type": "full",
-		"venue": "MobileHCI '24 (to appear)",
+		"file": "Pohl2024MobileHCI.pdf",
+		"doi": "10.1145/3676491",
+		"video": "g4vJgGDmP_U",
+		"venue": "Proc. ACM Hum.-Comput. Interact. 8, MHCI (MobileHCI)",
 		"acceptance": 32.6,
 		"abstract": "Engaging with our devices as we engage with each other is problematic as it distracts us and diminishes our social interactions. Subtle interactions have been presented as an approach to reconcile personal and computing interactions, through less disrupting technology. Along those lines, we investigate showing information right on and next to the people we are engaging with. Body-based data visualization allows us to maintain our attention with others, but to also receive information at the same time. We explore potential designs of such body-based and especially on-face visualizations and create a set of five prototype visualizations in a Snapchat lens. We use these prototypes in a video call study with 16 participants to evaluate how body-based visualizations affect actual conversations."
 	},

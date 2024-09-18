@@ -29,11 +29,17 @@ Wester2024Advice: |
   }
 Berkel2024OSM: |
   @article{Berkel2024OSM,
-    title = {Collaborating with Automation and Bots on OpenStreetMap},
+    title = {Collaborating with Bots and Automation on OpenStreetMap},
     author = {van Berkel, Niels and Pohl, Henning},
     year = {2024},
+    volume = {31},
+    number = {3},
+    issn = {1073-0516},
     doi = {10.1145/3665326},
     journal = {ACM Trans. Comput.-Hum. Interact.},
+    month = {aug},
+    articleno = {38},
+    numpages = {30},
   }
 Pohl2024Calculator: |
   @inproceedings{Pohl2024Calculator,

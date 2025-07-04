@@ -1,5 +1,17 @@
 [
 	{
+		"id": "Bursuc2025Anxiety",
+		"year": 2025,
+		"title": "Surveying Phone Anxiety Patterns, Perceptions, and Coping",
+		"authors": "Florin-Alexandru Bursuc, Henning Pohl",
+		"type": "full",
+		"file": "Bursuc2025MobileHCI.pdf",
+		"doi": "10.1145/3743729",
+		"venue": "Proc. ACM Hum.-Comput. Interact. 9, MHCI (MobileHCI)",
+		"acceptance": 27.2,
+		"abstract": "Many people suffer from anxiety, commonly manifesting in avoidance behavior and stress. For example, they might not open letters because they suspect them to contain bad news. With the phone having taken on a central role in communication and service access, anxiety and avoidance also stem from and impact its use, such as when emails remain unread. However, while phone addition had been studied in depth, avoidance behavior related to phones has not. This necessitates a broader understanding in which ways anxiety impacts and results from phone use. To develop this understanding, we surveyed user stories on the anxiety they felt around interacting with their phones. From 197 stories, we identify eight different kinds of phone anxiety. We supplement this analysis in two ways: (1) a survey with 81 participants to analyze the external perceptions of phone anxiety, and (2) interviews of 12 individual users on their phone anxiety coping strategies."
+	},
+	{
 		"id": "Pohl2024BodyViz",
 		"year": 2024,
 		"title": "Body-Based Augmented Reality Feedback During Conversations",
@@ -39,6 +51,7 @@
 		"year": 2024,
 		"title": "Integrated Calculators: Moving Calculation into the World",
 		"authors": "Henning Pohl, Kasper Hornbæk",
+		"acceptance": 27.4,
 		"type": "full",
 		"file": "Pohl2024DIS.pdf",
 		"video": "jVHN5f4ma4Q",

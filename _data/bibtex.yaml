@@ -1,3 +1,19 @@
+Bursuc2025Anxiety: |
+  @article{Bursuc2025Anxiety,
+    author = {Bursuc, Florin-Alexandru and Pohl, Henning},
+    title = {Surveying Phone Anxiety Patterns, Perceptions, and Coping},
+    year = {2025},
+    issue_date = {September 2024},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {9},
+    number = {5},
+    doi = {10.1145/3743729},
+    journal = {Proc. ACM Hum.-Comput. Interact.},
+    month = {sep},
+    articleno = {MHCI029},
+    numpages = {26}
+  }
 Pohl2024BodyViz: |
   @article{Pohl2024BodyViz,
     author = {Pohl, Henning},

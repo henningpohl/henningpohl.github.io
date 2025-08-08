@@ -1,3 +1,15 @@
+Wester2025SelfCare: |
+  @article{Wester2025SelfCare,
+    author = {Wester, Joel and de Jong, Sander and Pohl, Henning and van Berkel, Niels},
+    title = {Using LLMs for Self-Care: User and Counsellor Perspectives},
+    year = {2025},
+    volume = {203},
+    articleno = {103589},
+    numpages = {15},
+    journal = {International Journal of Human-Computer Studies},
+    issn = {1071-5819},
+    doi = {10.1016/j.ijhcs.2025.103589}
+  }
 Bursuc2025Anxiety: |
   @article{Bursuc2025Anxiety,
     author = {Bursuc, Florin-Alexandru and Pohl, Henning},

@@ -1,3 +1,28 @@
+Pohl2025Diversity: |
+  @article{Pohl2025Diversity,
+    title = {Diversity and Impact: A Scientometric Analysis of CHI Papers},
+    author = {Pohl, Henning},
+    year = {2025},
+    volume = {TBD},
+    number = {TBD},
+    issn = {1073-0516},
+    doi = {10.1145/3771921},
+    journal = {ACM Trans. Comput.-Hum. Interact.},
+    month = {TBD},
+    articleno = {TBD},
+    numpages = {TBD},
+  }
+Pohl2025AgeFilters: |
+  @article{Pohl2025AgeFilters,
+    author = {Pohl, Henning},
+    title = {Laughing and Longing: Analyzing Age Filter Videos on TikTok},
+    journal = {The Gerontologist},
+    pages = {gnaf231},
+    year = {2025},
+    month = {10},
+    issn = {1758-5341},
+    doi = {10.1093/geront/gnaf231}
+  }
 Wester2025SelfCare: |
   @article{Wester2025SelfCare,
     author = {Wester, Joel and de Jong, Sander and Pohl, Henning and van Berkel, Niels},

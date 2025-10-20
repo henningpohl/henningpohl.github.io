@@ -1,5 +1,25 @@
 [
 	{
+		"id": "Pohl2025Diversity",
+		"year": 2025,
+		"title": "Diversity and Impact: A Scientometric Analysis of CHI Papers",
+		"authors": "Henning Pohl",
+		"type": "journal",
+		"doi": "10.1145/3771921",
+		"venue": "In ACM Transactions on Computer-Human Interaction",
+		"abstract": "Diverse teams tend to be more productive and creative and the same is said to hold for science, with evidence that diverse groups of authors publish in more impactful journals. Within human-computer interaction (HCI), there have been several investigations into the diversity of such author teams, but it is unclear whether more diverse groups of co-authors also produce more impactful HCI papers, and which diversity dimensions matter the most. We investigate this relationship using a dataset of all CHI papers and estimate gender, ethnicity, location, sector, and experience measures of diversity. Through a regression analysis on citations and awards, we determine that co-author diversity indeed affects paper impact, but only some forms of it. Where diversity in experience, ethnicity, sector, and location result in more impactful CHI papers, this does not look to be the case for gender diversity. Through follow-up analysis we further investigate three potential ways how author diversity could be influencing paper impact, by examining research area, novelty, and positionality of these papers. This shows that a paper's research area also factors into impact, while varying by diversity dimensions, indicating a link between the two."
+	},
+	{
+		"id": "Pohl2025AgeFilters",
+		"year": 2025,
+		"title": "Laughing and Longing: Analyzing Age Filter Videos on TikTok",
+		"authors": "Henning Pohl",
+		"type": "journal",
+		"doi": "10.1093/geront/gnaf231",
+		"venue": "In The Gerontologist",
+		"abstract": "<b>Background and Objectives</b><br/>Augmented reality filters have enabled real-time alterations of one’s appearance, including filters that allow users to explore how younger or older versions of them might look. This can be entertainment, but can also confront users with an unexpected contrast in appearance. Users sharing their reactions to these filters on social media, allow a view into the effects such filters have. We aim to better understand what these effects are and how such filters support user’s engagement with aging and their past.<br/><b>Research Design and Methods</b><br/>We searched TikTok for videos on age filter use, centered on those associated with the #teenfilter hashtag. From the initial dataset of 624 we retain 434 videos for a further analysis. We combine a quantitative analysis of the video descriptions and who features in the videos with a thematic analysis of the video content.<br/><b>Results</b><br/>We identified eight themes around how users reacted to age filters. These span from positive reactions, such as appreciation and amusement, to negative ones, such as shock and disagreement. Nostalgia and reminiscence were common reactions, with users reflecting on their own lives, but also using the opportunity to draw connections between themselves and their parents or kids.<br/><b>Discussion and Implications</b><br/>Our findings describe the broad range of reactions stemming from the use of augmented reality age filters. We find that these filters can help users reminisce and connect across generations. Filters have been shown to affect self-perception and support self-expression and this extends to age and aging."
+	},
+	{
 		"id": "Wester2025SelfCare",
 		"year": 2025,
 		"title": "Using LLMs for Self-Care: User and Counsellor Perspectives",

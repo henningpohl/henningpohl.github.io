@@ -1,3 +1,29 @@
+Mueller2026BodyControl: |
+ @inproceedings{Mueller2026BodyControl,
+    title = {Grand Challenges around Designing Computers' Control Over Our Bodies},
+    author = {Mueller, Florian `Floyd' and Bianchi-Berthouze, Nadia and Sra, Misha and Gonzalez-Franco, Mar and Pohl, Henning and Boll, Susanne and Byrne, Richard and Caetano, Arthur and Inami, Masahiko and Knibbe, Jarrod and Kristensson, Per Ola and Li, Xiang and Li Zhuying and Marshall, Joe and Matjeka, Louise Petersen and Nygren, Minna and Patibanda, Rakesh and Price, Sara and Reiterer, Harald and Saini, Aryan and Schneider, Oliver and Shahu, Ambika and Steimle, Jürgen and Dugas, Phoebe O. Toups and Elvitigala, Don Samitha},
+    booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
+    doi = {10.1145/3772318.3790606},
+    year = {2026},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    numpages = {21},
+    location = {Barcelona, Spain},
+    series = {CHI '26}
+  }
+Wester2026Chaplains: |
+ @inproceedings{Wester2026Chaplains,
+    title = {Chaplain's Reflections on the Design and Usage of AI for Conversational Care},
+    author = {Wester, Joel and Cox, Samuel Rhys and Pohl, Henning and van Berkel, Niels},
+    booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
+    doi = {10.1145/3772318.3790468},
+    year = {2026},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    numpages = {15},
+    location = {Barcelona, Spain},
+    series = {CHI '26}
+  }
 Pohl2025Diversity: |
   @article{Pohl2025Diversity,
     title = {Diversity and Impact: A Scientometric Analysis of CHI Papers},

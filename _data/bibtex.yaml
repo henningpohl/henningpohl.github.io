@@ -1,7 +1,7 @@
 Mueller2026BodyControl: |
  @inproceedings{Mueller2026BodyControl,
     title = {Grand Challenges around Designing Computers' Control Over Our Bodies},
-    author = {Mueller, Florian `Floyd' and Bianchi-Berthouze, Nadia and Sra, Misha and Gonzalez-Franco, Mar and Pohl, Henning and Boll, Susanne and Byrne, Richard and Caetano, Arthur and Inami, Masahiko and Knibbe, Jarrod and Kristensson, Per Ola and Li, Xiang and Li Zhuying and Marshall, Joe and Matjeka, Louise Petersen and Nygren, Minna and Patibanda, Rakesh and Price, Sara and Reiterer, Harald and Saini, Aryan and Schneider, Oliver and Shahu, Ambika and Steimle, Jürgen and Dugas, Phoebe O. Toups and Elvitigala, Don Samitha},
+    author = {Mueller, Florian `Floyd' and Berthouze, Nadia and Sra, Misha and Gonzalez-Franco, Mar and Pohl, Henning and Boll, Susanne and Byrne, Richard and Caetano, Arthur and Inami, Masahiko and Knibbe, Jarrod and Kristensson, Per Ola and Li, Xiang and Li, Zhuying and Marshall, Joe and Matjeka, Louise Petersen and Nygren, Minna and Patibanda, Rakesh and Price, Sara and Reiterer, Harald and Saini, Aryan and Schneider, Oliver and Shahu, Ambika and Dugas, Phoebe O. Toups and Elvitigala, Don Samitha},
     booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
     doi = {10.1145/3772318.3790606},
     year = {2026},

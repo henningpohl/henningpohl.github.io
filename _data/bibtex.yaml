@@ -24,19 +24,19 @@ Wester2026Chaplains: |
     location = {Barcelona, Spain},
     series = {CHI '26}
   }
-Pohl2025Diversity: |
-  @article{Pohl2025Diversity,
+Pohl2026Diversity: |
+  @article{Pohl2065Diversity,
     title = {Diversity and Impact: A Scientometric Analysis of CHI Papers},
     author = {Pohl, Henning},
     year = {2025},
-    volume = {TBD},
-    number = {TBD},
+    volume = {33},
+    number = {1},
     issn = {1073-0516},
     doi = {10.1145/3771921},
     journal = {ACM Trans. Comput.-Hum. Interact.},
-    month = {TBD},
-    articleno = {TBD},
-    numpages = {TBD},
+    month = {Feb},
+    articleno = {2},
+    numpages = {51},
   }
 Pohl2025AgeFilters: |
   @article{Pohl2025AgeFilters,

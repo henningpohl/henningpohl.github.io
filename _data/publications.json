@@ -25,13 +25,13 @@ interaction endeavors."
 		"abstract": "Despite growing recognition that responsible AI requires domain knowledge, current work on conversational AI primarily draws on clinical expertise that prioritises diagnosis and intervention. However, much of everyday emotional support needs occur in nonclinical contexts, and therefore requires different conversational approaches. We examine how chaplains, who guide individuals through personal crises, grief, and reflection, perceive and engage with conversational AI. We recruited eighteen chaplains to build AI chatbots. While some chaplains viewed chatbots with cautious optimism, the majority expressed limitations of chatbots’ ability to support everyday well-being. Our analysis reveals how chaplains perceive their pastoral care duties and areas where AI chatbots fall short, along the themes of Listening, Connecting, Carrying, and Wanting. These themes resonate with the idea of attunement, recently highlighted as a relational lens for understanding the delicate experiences care technologies provide. This perspective informs chatbot design aimed at supporting well-being in non-clinical contexts."
 	},
 	{
-		"id": "Pohl2025Diversity",
-		"year": 2025,
+		"id": "Pohl2026Diversity",
+		"year": 2026,
 		"title": "Diversity and Impact: A Scientometric Analysis of CHI Papers",
 		"authors": "Henning Pohl",
 		"type": "journal",
 		"doi": "10.1145/3771921",
-		"venue": "In ACM Transactions on Computer-Human Interaction",
+		"venue": "In ACM Transactions on Computer-Human Interaction, 33(1)",
 		"abstract": "Diverse teams tend to be more productive and creative and the same is said to hold for science, with evidence that diverse groups of authors publish in more impactful journals. Within human-computer interaction (HCI), there have been several investigations into the diversity of such author teams, but it is unclear whether more diverse groups of co-authors also produce more impactful HCI papers, and which diversity dimensions matter the most. We investigate this relationship using a dataset of all CHI papers and estimate gender, ethnicity, location, sector, and experience measures of diversity. Through a regression analysis on citations and awards, we determine that co-author diversity indeed affects paper impact, but only some forms of it. Where diversity in experience, ethnicity, sector, and location result in more impactful CHI papers, this does not look to be the case for gender diversity. Through follow-up analysis we further investigate three potential ways how author diversity could be influencing paper impact, by examining research area, novelty, and positionality of these papers. This shows that a paper's research area also factors into impact, while varying by diversity dimensions, indicating a link between the two."
 	},
 	{

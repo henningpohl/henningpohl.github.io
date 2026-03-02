@@ -30,6 +30,7 @@ interaction endeavors."
 		"title": "Diversity and Impact: A Scientometric Analysis of CHI Papers",
 		"authors": "Henning Pohl",
 		"type": "journal",
+		"file": "Pohl2026Diversity.pdf",
 		"doi": "10.1145/3771921",
 		"venue": "In ACM Transactions on Computer-Human Interaction, 33(1)",
 		"abstract": "Diverse teams tend to be more productive and creative and the same is said to hold for science, with evidence that diverse groups of authors publish in more impactful journals. Within human-computer interaction (HCI), there have been several investigations into the diversity of such author teams, but it is unclear whether more diverse groups of co-authors also produce more impactful HCI papers, and which diversity dimensions matter the most. We investigate this relationship using a dataset of all CHI papers and estimate gender, ethnicity, location, sector, and experience measures of diversity. Through a regression analysis on citations and awards, we determine that co-author diversity indeed affects paper impact, but only some forms of it. Where diversity in experience, ethnicity, sector, and location result in more impactful CHI papers, this does not look to be the case for gender diversity. Through follow-up analysis we further investigate three potential ways how author diversity could be influencing paper impact, by examining research area, novelty, and positionality of these papers. This shows that a paper's research area also factors into impact, while varying by diversity dimensions, indicating a link between the two."

@@ -1,3 +1,17 @@
+Pohl2026IntegratedVirtuality: |
+  @misc{Pohl2026IntegratedVirtuality,
+    title = {{Integrated Virtuality: Inspiration by the Built Environment}},
+    author = {Pohl, Henning},
+    howpublished = {Co-Living between Reality and Virtuality as a Daily Routine workshop at CHI 2026},
+    year = {2026}
+  }
+Pohl2026SocialSignaling: |
+  @misc{Pohl2026SocialSignaling,
+    title = {{Social Signaling in Augmented Reality}},
+    author = {Pohl, Henning},
+    howpublished = {Shaping Future Human Connection: Social Augmentation through XR Technologies workshop at CHI 2026},
+    year = {2026}
+  }
 Mueller2026BodyControl: |
  @inproceedings{Mueller2026BodyControl,
     title = {{Grand Challenges around Designing Computers' Control Over Our Bodies}},

@@ -5,6 +5,7 @@
 		"title": "Integrated Virtuality: Inspiration by the Built Environment",
 		"authors": "Henning Pohl",
 		"type": "workshop",
+		"file": "Pohl2026CoLiving.pdf",
 		"venue": "Co-Living between Reality and Virtuality as a Daily Routine workshop at CHI 2026",
 		"abstract": "With growing adoption of mixed reality technologies, it increasingly is integrated into everyday life. Yet, such experiences are often not seamless, standing out from the reality they extend and appearing overly separate and detached from it. Ideally, we would like mixed reality to co-exist with reality, with the possibility of that distinction blurring at times where desirable. In contemplating how best to achieve this goal, it helps to look at other technologies that are pervading our environments today. Specifically, we take a look at the tension between natural and artificial in the built environment. While the spaces we live in and move through are commonly heavily altered and full of infrastructure, not all those technologies stand out to us as artificial. Similarly, better understanding why that is could also help with the design of mixed reality technologies that more smoothly integrate with reality."
 	},
@@ -14,6 +15,7 @@
 		"title": "Social Signaling in Augmented Reality",
 		"authors": "Henning Pohl",
 		"type": "workshop",
+		"file": "Pohl2026SAXR.pdf",
 		"venue": "Shaping Future Human Connection: Social Augmentation through XR Technologies workshop at CHI 2026",
 		"abstract": "As Augmented reality devices become suitable for use in social situations, they will also be used to overlay visual content on our bodies as we interact with others. This will include virtual clothing and accessories, but could go as far as virtual body modifications, such as animated tattoos. Similar to their physical counterparts, such augmentations will allow their users to curate their appearance, signaling status, preferences, and affinities to others. However, such virtual adornments also differ in meaningful ways, such as allowing for easy and substantial user control and customization while being worn. We describe the present state of such augmented reality appearance change, present three example scenarios to provide concrete examples of how use of this technology could play out, and outline challenges faced by research in this area."
 	},

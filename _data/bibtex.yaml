@@ -1,3 +1,31 @@
+Pohl2026Filters: |
+  @article{Pohl2026Filters,
+    title = {{The Situational Influences of AR Face and Body Filters}},
+    author = {Pohl, Henning},
+    year = {2026},
+    volume = {to appear},
+    doi = {10.1145/3832309}
+    journal = {ACM Transactions on Applied Perception}
+  }
+Aslan2026Speejis: |
+  @inproceedings{Aslan2026Speejis,
+    title = {{Speejis: Expressive Speech Emotion Cues in Voice Messaging}},
+    author = {Aslan, Ilhan and Griggio, Carla F. and Pohl, Henning and Merritt, Tim and van Berkel, Niels},
+    year = {2026},
+    booktitle = {MobileHCI '26 Adjunct Proceedings}
+  }
+Gregersen2026GymAR: |
+  @article{Gregersen2026GymAR,
+    title = {{Augmented Reality Screens for Cardio Machines}},
+    author = {Gregersen, Kristoffer and Jacobsen, Martin and Lauridsen, Peter and Pohl, Henning},
+    year = {2026},
+    doi = {10.1145/3821674},
+    journal = {Proc. ACM Hum.-Comput. Interact.},
+    volume = {10},
+    issue = {5},
+    articleno = {MHCI7968},
+    numpages = {21}
+  } 
 Pohl2026IntegratedVirtuality: |
   @misc{Pohl2026IntegratedVirtuality,
     title = {{Integrated Virtuality: Inspiration by the Built Environment}},

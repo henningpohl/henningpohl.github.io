@@ -12,7 +12,8 @@ Aslan2026Speejis: |
     title = {{Speejis: Expressive Speech Emotion Cues in Voice Messaging}},
     author = {Aslan, Ilhan and Griggio, Carla F. and Pohl, Henning and Merritt, Tim and van Berkel, Niels},
     year = {2026},
-    booktitle = {MobileHCI '26 Adjunct Proceedings}
+    booktitle = {MobileHCI '26 Adjunct Proceedings},
+    doi = {10.1145/3821581.3833104}
   }
 Gregersen2026GymAR: |
   @article{Gregersen2026GymAR,

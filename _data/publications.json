@@ -7,7 +7,7 @@
 		"type": "journal",
 		"venue": "ACM Transactions on Applied Perception",
 		"doi": "10.1145/3832309",
-		"abstract": "Through digital augmentation it is already possible to smooth one's skin, don virtual bunny ears, or sparkle. With future augmented reality glasses we will be able to see and wear such augmentations while out and about. Yet, the effects of these digital changes to our appearance are presently poorly understood. We investigate how different kinds of facial and bodily augmentations influence how we are perceived by others. For this purpose we recruited four speakers to enact eight different scenarios, creating a dataset of 32~short videos. We apply a selection of beautification and scenario-specific augmented reality filters to these clips to create a set of 160~videos. We then evaluate how the speakers in these videos are perceived through a crowdsourced study with 165~participants. Our analysis shows that filters indeed have an effect on how speakers are perceived, modulating effects from other sources, such as who is speaking. The direction and magnitude of this effect is filter-dependent, pointing to the potential of designing them for specific social situations."
+		"abstract": "Through digital augmentation it is already possible to smooth one's skin, don virtual bunny ears, or sparkle. With future augmented reality glasses we will be able to see and wear such augmentations while out and about. Yet, the effects of these digital changes to our appearance are presently poorly understood. We investigate how different kinds of facial and bodily augmentations influence how we are perceived by others. For this purpose we recruited four speakers to enact eight different scenarios, creating a dataset of 32 short videos. We apply a selection of beautification and scenario-specific augmented reality filters to these clips to create a set of 160 videos. We then evaluate how the speakers in these videos are perceived through a crowdsourced study with 165 participants. Our analysis shows that filters indeed have an effect on how speakers are perceived, modulating effects from other sources, such as who is speaking. The direction and magnitude of this effect is filter-dependent, pointing to the potential of designing them for specific social situations."
 	},
 	{
 		"id": "Aslan2026Speejis",
@@ -15,8 +15,10 @@
 		"title": "Speejis: Expressive Speech Emotion Cues in Voice Messaging",
 		"authors": "Ilhan Aslan, Carla F. Griggio, Henning Pohl, Timothy Merritt, and Niels van Berkel",
 		"type": "poster",
+		"file": "Aslan2026Speejis.pdf",
+		"doi": "10.1145/3821581.3833104",
 		"venue": "MobileHCI '26 Adjunct",
-		"abstract": "Voice messaging remains a unimodal experience centered on recording and listening to audio. Current speech analysis models could supplement messages with automated transcriptions and visual emotion cues, such as emojis based on the speaker's tone or the verbal content. However, how these proactive features affect UX is not yet well understood. To address this gap, we introduce Speejis, a proactive agent that leverages a SER model to automatically augment voice messages with emojis and colored waveforms, alongside ASR for transcriptions. We present the Speejis prototype and report findings from an exploratory user study (N~=12). Our results detail how Speejis impacts UX, highlighting a trade-off between increased stimulation and reduced dependability due to the fully automated nature of emotion cueing."
+		"abstract": "Voice messaging remains a unimodal experience centered on recording and listening to audio. Current speech analysis models could supplement messages with automated transcriptions and visual emotion cues, such as emojis based on the speaker's tone or the verbal content. However, how these proactive features affect UX is not yet well understood. To address this gap, we introduce Speejis, a proactive agent that leverages a Speech Emotion Recognition (SER) model to automatically augment voice messages with emojis and colored waveforms, alongside automatic speech recognition for transcriptions. We present the Speejis prototype and report findings from an exploratory user study (N = 12). Our results detail how Speejis impacts UX, highlighting a trade-off between increased stimulation and reduced dependability due to the fully automated nature of emotion cueing."
 	},
 	{
 		"id": "Gregersen2026GymAR",
@@ -24,6 +26,7 @@
 		"title": "Augmented Reality Screens for Cardio Machines",
 		"authors": "Kristoffer Gregersen, Martin Jacobsen, Peter Lauridsen, and Henning Pohl",
 		"type": "full",
+		"file": "Gregersen2026GymAR.pdf",
 		"doi": "10.1145/3821674",
 		"venue": "Proc. ACM Hum.-Comput. Interact. 10, MHCI (MobileHCI)",
 		"acceptance": 37.8,

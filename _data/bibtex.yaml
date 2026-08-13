@@ -1,3 +1,12 @@
+Tue2026ChattyArt: |
+  @article{Tue2026ChattyArt,
+    title = {{Chatty Art Labels: Evaluation of a Conversational Museum Guide}},
+    author = {Tue, Tobias and Pohl, Henning and Merritt, Timothy},
+    year = {2026},
+    volume = {to appear},
+    doi = {10.1016/j.daach.2026.e00585}
+    journal = {Digital Applications in Archaeology and Cultural Heritage}
+  }
 Pohl2026Filters: |
   @article{Pohl2026Filters,
     title = {{The Situational Influences of AR Face and Body Filters}},
@@ -10,7 +19,7 @@ Pohl2026Filters: |
 Aslan2026Speejis: |
   @inproceedings{Aslan2026Speejis,
     title = {{Speejis: Expressive Speech Emotion Cues in Voice Messaging}},
-    author = {Aslan, Ilhan and Griggio, Carla F. and Pohl, Henning and Merritt, Tim and van Berkel, Niels},
+    author = {Aslan, Ilhan and Griggio, Carla F. and Pohl, Henning and Merritt, Timothy and van Berkel, Niels},
     year = {2026},
     booktitle = {MobileHCI '26 Adjunct Proceedings},
     doi = {10.1145/3821581.3833104}

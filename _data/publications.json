@@ -5,7 +5,8 @@
 		"title": "Chatty Art Labels: Evaluation of a Conversational Museum Guide",
 		"authors": "Tobias Tue, Henning Pohl, Timothy Merritt",
 		"type": "journal",
-		"venue": "Digital Applications in Archaeology and Cultural Heritage",
+		"file": "Tue2026ChattyArt.pdf",
+		"venue": "Digital Applications in Archaeology and Cultural Heritage, 42",
 		"doi": "10.1016/j.daach.2026.e00585",
 		"abstract": "This study explores the potential of a large language model (LLM)-powered Conversational Agent (CA) as a virtual museum guide to enhance visitor experi-ences. A prototype was developed, enabling natural language interactions with an LLM-powered CA about augmented reality (AR) artwork viewed through a head-mounted device (HMD). An exploratory field study with 22 museum vis-itors found positive evaluations based on a multimedia guide assessment scale. Results showed that the most prevalent were fact-based questions, while qual-itative findings highlighted appreciation for personalized information, concerns over information gaps, challenges in formulating questions, and discomfort with public voice interactions. The study underscores the potential for LLM-powered guides for museum experiences, while identifying design challenges for future re-search and development."
 	},
@@ -40,7 +41,7 @@
 		"doi": "10.1145/3821674",
 		"venue": "Proc. ACM Hum.-Comput. Interact. 10, MHCI (MobileHCI)",
 		"acceptance": 37.8,
-		"abstract": "Many people watch videos on their phone while working out. However, the limited size and poor placement constrain how suitable the phone can be in this situation. We investigate how augmented reality (AR) screens could provide better viewing experiences during cardio workouts. Based on observations and interviews in the field, we determine requirements and then implement an AR system for watching video during exercising. We then compare phone-like, static, and adaptive AR screens in an in-situ study with 16~participants. Our results show that both AR screen options provide better viewing experiences than the phone-like screen, with adaptive AR screens being particularly well suited for rowing machine exercises."
+		"abstract": "Many people watch videos on their phone while working out. However, the limited size and poor placement constrain how suitable the phone can be in this situation. We investigate how augmented reality (AR) screens could provide better viewing experiences during cardio workouts. Based on observations and interviews in the field, we determine requirements and then implement an AR system for watching video during exercising. We then compare phone-like, static, and adaptive AR screens in an in-situ study with 16 participants. Our results show that both AR screen options provide better viewing experiences than the phone-like screen, with adaptive AR screens being particularly well suited for rowing machine exercises."
 	},
 	{
 		"id": "Pohl2026IntegratedVirtuality",

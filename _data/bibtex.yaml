@@ -3,7 +3,10 @@ Tue2026ChattyArt: |
     title = {{Chatty Art Labels: Evaluation of a Conversational Museum Guide}},
     author = {Tue, Tobias and Pohl, Henning and Merritt, Timothy},
     year = {2026},
-    volume = {to appear},
+    month = {Sep},  
+    volume = {42},
+    articleno = {e00585},
+    numpages = {8},
     doi = {10.1016/j.daach.2026.e00585}
     journal = {Digital Applications in Archaeology and Cultural Heritage}
   }

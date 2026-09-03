@@ -1,5 +1,14 @@
 [
 	{
+		"id": "Bhatia2026EverydayAR",
+		"year": 2026,
+		"title": "The Promise of Augmented Reality in Everyday Life",
+		"authors": "Arpit Bhatia, Teresa Hirzle, Henning Pohl, Lise Bruun, Barry Brown, Kasper Hornbæk",
+		"type": "journal",
+		"venue": "In ACM Transactions on Computer-Human Interaction",
+		"abstract": "Augmented Reality (AR) is increasingly positioned as the next frontier in personal computing, yet how it would actually integrate into everyday life remains poorly understood. We investigate the promise of everyday AR by analyzing (1) 184 practitioner-created vision videos and (2) 1467 user-generated visions based on first-person recordings of 30 participants' everyday lives. From this dual perspective of both practitioner knowledge and lived experiences, we develop a conceptual framework that describes why users might seek to augment reality, what is missing from everyday experiences that AR could provide, which aspects of reality are useful to augment, and how AR content could relate to the real world. Our findings reveal new opportunities for everyday AR and provide a framework to think about AR use in diverse real-world settings."
+	},
+	{
 		"id": "Tue2026ChattyArt",
 		"year": 2026,
 		"title": "Chatty Art Labels: Evaluation of a Conversational Museum Guide",

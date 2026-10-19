@@ -1,3 +1,13 @@
+Bhatia2026EverydayAR: |
+  @article{Bhatia2026EverydayAR,
+    title = {{The Promise of Augmented Reality in Everyday Life}},
+    author = {Bhatia, Arpit and Hirzle, Teresa and Pohl, Henning and Brunn, Lise Anna and Brown, Barry and Hornbæk, Kasper},
+    year = {2026},
+    issn = {1073-0516},
+    doi = {10.1145/385862},
+    journal = {ACM Trans. Comput.-Hum. Interact.},
+    month = {Oct},
+  }
 Tue2026ChattyArt: |
   @article{Tue2026ChattyArt,
     title = {{Chatty Art Labels: Evaluation of a Conversational Museum Guide}},
@@ -83,7 +93,7 @@ Pohl2026Diversity: |
   @article{Pohl2065Diversity,
     title = {{Diversity and Impact: A Scientometric Analysis of CHI Papers}},
     author = {Pohl, Henning},
-    year = {2025},
+    year = {2026},
     volume = {33},
     number = {1},
     issn = {1073-0516},
